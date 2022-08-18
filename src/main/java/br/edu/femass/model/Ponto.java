@@ -53,7 +53,7 @@ public class Ponto {
     }
 
     public String toString(){
-return "(" + this.x.toString() + "," + this.y.toString() + ")";
+return "(" + this.x.toString() + ", " + this.y.toString() + ")";
     }
 
     @Override
